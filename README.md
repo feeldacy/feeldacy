@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an active undergraduate student majoring in Software Engineering, specializing in backend development, with hands-on experience building RESTful APIs, database design, and backend services. I enjoy working on real-world projects, learning new backend technologies, and building<br>reliable, maintainable, and scalable systems.<br>
+I am an active undergraduate student majoring in Software Engineering, specializing in backend development, with hands-on experience building RESTful APIs, database design, and backend services. I enjoy working on real-world projects, learning new backend technologies, and building reliable, maintainable, and scalable systems.<br>
 
 
 ## 🌐 Socials:
